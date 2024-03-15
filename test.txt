@@ -2,7 +2,6 @@ Bla a test
 And to make it fun we will have
 more than one line.
 
-HEre there is even more stuff
-I am an idiot so I make mistakes
+Here there is even more stuff
 
 Stuff
